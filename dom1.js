@@ -24,4 +24,4 @@ text(r,550,165);
 text(g,550,185);
 text(b,550,300);
 }
-
+function key pressed
